@@ -3,7 +3,8 @@
 Ex 1: Cookies
 We open the cookies editor and in the field of value we start trying different numbers until the flag shows up.
 
-<img width="946" alt="Captura de pantalla 2024-04-03 a la(s) 08 58 18" src="https://github.com/emiliasaenz/HW2/assets/143628612/f91abc6d-8742-4629-904d-afac948ed20a">
+<img width="498" alt="Captura de pantalla 2024-04-17 a la(s) 10 00 59" src="https://github.com/emiliasaenz/HW2/assets/143628612/f040f9c0-bb55-4622-a78c-c06100cb3236">
+
 
 I tried until the number 18 and the flag showed up
 
